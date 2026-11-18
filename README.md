@@ -3,6 +3,9 @@
 A tiny interactive birthday website — a programmer's-romance gift for a friend.
 One single `index.html`, no build step, no dependencies. Open it and it plays.
 
+**▶ Live demo: https://sophielee-super.github.io/happy-birthday-chat-en/**
+
+
 ## What it does
 
 1. **A simulated chat** — messages arrive one by one in a phone-style chat box, with typing dots and tap-to-reply choices (a small branching script, including a "Crazy Thursday" joke that follows the real weekday of the birthday).
